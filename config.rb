@@ -52,7 +52,7 @@ set :fonts_dir, 'assets/fonts'
 set :images_dir, 'assets/images'
 set :partials_dir, 'shared'
 
-# activate :livereload
+activate :livereload
 activate :autoprefixer
 # activate :directory_indexes
 
